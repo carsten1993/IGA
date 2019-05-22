@@ -1,0 +1,11 @@
+C:\Users\carst\Documents\Visual Studio 2017\Filer\Rhino\IGA\IGA\bin\IGA.dll
+C:\Users\carst\Documents\Visual Studio 2017\Filer\Rhino\IGA\IGA\bin\IGA.pdb
+C:\Users\carst\Documents\Visual Studio 2017\Filer\Rhino\IGA\IGA\obj\Debug\IGA.csprojAssemblyReference.cache
+C:\Users\carst\Documents\Visual Studio 2017\Filer\Rhino\IGA\IGA\obj\Debug\IGA.csproj.CoreCompileInputs.cache
+C:\Users\carst\Documents\Visual Studio 2017\Filer\Rhino\IGA\IGA\obj\Debug\IGA.dll
+C:\Users\carst\Documents\Visual Studio 2017\Filer\Rhino\IGA\IGA\obj\Debug\IGA.pdb
+C:\Users\carst\AppData\Roaming\Grasshopper\Libraries\IGA.dll
+C:\Users\carst\AppData\Roaming\Grasshopper\Libraries\IGA.pdb
+C:\Users\carst\Documents\Visual Studio 2017\Filer\Rhino\IGA\IGA\obj\Debug\IGA.csproj.CopyComplete
+C:\Users\carst\AppData\Roaming\Grasshopper\Libraries\x64\libiomp5md.dll
+C:\Users\carst\AppData\Roaming\Grasshopper\Libraries\x64\MathNet.Numerics.MKL.dll
